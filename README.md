@@ -1,4 +1,4 @@
 # Password Generator
-### [Live Link](https://password-generator.netlify.app/)
+### [Live Link](https://random-password-generator-apps.netlify.app/)
 
 ![My Image](Screenshot_2.png)
